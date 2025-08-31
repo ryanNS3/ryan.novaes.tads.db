@@ -9,4 +9,7 @@ O **processo de cupons** envolve várias funções: criar regras, gerar cupons, 
 
 
 ## IDF0
-![Diagrama sem nome drawio](https://github.com/user-attachments/assets/bdbb1f58-3ac7-4749-a315-7a383b1f1fea)
+
+![Diagrama sem nome drawio (2)](https://github.com/user-attachments/assets/f3bf8e01-bc40-4976-864f-d59a93ee1c83)
+
+
